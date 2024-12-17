@@ -35,7 +35,7 @@ Before using this system, ensure you have the following prerequisites:
 1. Clone this repository:
   
 ```bash
-git clone https://github.com/digital-human-chatbot.git
+git clone https://github.com/Crypto-dev-spec/digital-human-chatbot.git
 ```
 
 2. Navigate to the project directory:
