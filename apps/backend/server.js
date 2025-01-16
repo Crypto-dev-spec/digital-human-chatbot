@@ -13,7 +13,7 @@ const elevenLabsApiKey = process.env.ELEVEN_LABS_API_KEY;
 const app = express();
 app.use(express.json());
 app.use(cors());
-const port = 3000;
+const port = 3524;  //Change the port number
 
 app.get("/voices", async (req, res) => {
   res.send(await voice.getVoices(elevenLabsApiKey));
